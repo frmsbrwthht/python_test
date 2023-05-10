@@ -1,4 +1,4 @@
-num = int(input('Введите число:'))
+num = int(input('Введите число: '))
 digit1 = num // 100
 digit2 = (num // 10) % 10
 digit3 = num % 10
